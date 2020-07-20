@@ -18,10 +18,12 @@ npm install
 
 After the above command, execute a commmand like below
 
-### Run the program
+### Run the Mobile App
+cd ios/podinstall
 
 ```sh
 yarn ios
+yarn android
 ```
 
 ![Program snapshot](https://github.com/priyangamani/reactnative-sampleProject/blob/master/screenshots/Screenshot-List.png)
@@ -34,12 +36,7 @@ yarn ios
 ![Program snapshot](https://github.com/priyangamani/reactnative-sampleProject/blob/master/screenshots/AWS_DATABASE.png)
 
 
-API:(AWS Server Call Integration)
-
-https://ljd5o9q57e.execute-api.eu-west-2.amazonaws.com/Dev
-
-https://ljd5o9q57e.execute-api.eu-west-2.amazonaws.com/Dev?id="rid-134444444"
-
+![Program snapshot](https://github.com/priyangamani/reactnative-sampleProject/blob/master/screenshots/TestCaseReport.png)
 
 ### Run the test cases
 
@@ -49,8 +46,13 @@ npm run test
 update the Snapshot
 npm test -- -u
 
-TestCase Report:
 
-![Test snapshot](https://github.com/priyangamani/reactnative-sampleProject/blob/master/screenshots/TestCaseReport.png)
+API:(AWS Server Call Integration)
+
+https://ljd5o9q57e.execute-api.eu-west-2.amazonaws.com/Dev
+
+https://ljd5o9q57e.execute-api.eu-west-2.amazonaws.com/Dev?id="rid-134444444"
+
+
 
 
