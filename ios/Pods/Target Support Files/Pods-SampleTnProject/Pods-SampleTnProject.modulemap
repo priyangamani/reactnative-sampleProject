@@ -1,0 +1,6 @@
+module Pods_SampleTnProject {
+  umbrella header "Pods-SampleTnProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
