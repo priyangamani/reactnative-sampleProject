@@ -12,5 +12,21 @@ After the above command, execute a commmand like below
 
 git clone https://github.com/priyangamani/reactnative-sampleProject
 
-Run the program
-npm install if you using yarn
+```sh
+npm install
+```
+
+After the above command, execute a commmand like below
+
+### Run the program
+
+```sh
+yarn ios
+```
+
+![Program snapshot](./etc/program.png "Program snapshot")
+
+### Run the test cases
+
+```sh
+npm run test
