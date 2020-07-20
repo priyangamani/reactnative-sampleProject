@@ -24,7 +24,7 @@ After the above command, execute a commmand like below
 yarn ios
 ```
 
-![Program snapshot](./etc/program.png "Program snapshot")
+![Program snapshot](https://github.com/priyangamani/reactnative-sampleProject/blob/master/Screenshot-List.png)
 
 ### Run the test cases
 
