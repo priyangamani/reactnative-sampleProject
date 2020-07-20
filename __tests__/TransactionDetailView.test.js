@@ -2,15 +2,16 @@
  * @format
  */
 
-import 'react-native';
-import React from 'react';
-import TransactionDetailView from '../src/ui-components/TransactionDetailView';
-import renderer from 'react-test-renderer';
+import React from 'react'
+import styled from 'styled-components'
+import renderer from 'react-test-renderer'
+import 'jest-styled-components'
 
-it('renders correctly', () => {
-  setTimeout(() => {
-    const tree = renderer.create(<TransactionDetailView />);
-    expect(tree).toMatchSnapshot();
-  }, 500)
-});
+const Button = styled.button`
+  color: red;
+`
 
+test('TransactionDetail', () => {
+  const tree = renderer.create(<Button />).toJSON()
+  expect(tree).toMatchSnapshot()
+})
