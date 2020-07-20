@@ -20,7 +20,7 @@ npm install
 
 After the above command, execute a commmand like below
 
-### Run the Mobile App
+### Run the command ( Mobile)
 cd ios/podinstall
 
 ```sh
