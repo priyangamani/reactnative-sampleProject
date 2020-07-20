@@ -38,3 +38,6 @@ yarn ios
 
 ```sh
 npm run test
+
+update the Snapshot
+npm test -- -u
