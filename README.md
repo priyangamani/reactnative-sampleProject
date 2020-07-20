@@ -48,3 +48,9 @@ npm run test
 
 update the Snapshot
 npm test -- -u
+
+TestCase Report:
+
+![Test snapshot](https://github.com/priyangamani/reactnative-sampleProject/blob/master/screenshots/TestCaseReport.png)
+
+
