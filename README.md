@@ -34,6 +34,13 @@ yarn ios
 ![Program snapshot](https://github.com/priyangamani/reactnative-sampleProject/blob/master/screenshots/AWS_DATABASE.png)
 
 
+API:(AWS Server Call Integration)
+
+https://ljd5o9q57e.execute-api.eu-west-2.amazonaws.com/Dev
+
+https://ljd5o9q57e.execute-api.eu-west-2.amazonaws.com/Dev?id="rid-134444444"
+
+
 ### Run the test cases
 
 ```sh
