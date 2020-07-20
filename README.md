@@ -26,6 +26,9 @@ yarn ios
 
 ![Program snapshot](https://github.com/priyangamani/reactnative-sampleProject/blob/master/Screenshot-List.png)
 
+
+![Program snapshot](https://github.com/priyangamani/reactnative-sampleProject/blob/master/Screenshot_DetailedItem.png)
+
 ### Run the test cases
 
 ```sh
