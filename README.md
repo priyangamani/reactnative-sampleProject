@@ -29,6 +29,11 @@ yarn ios
 
 ![Program snapshot](https://github.com/priyangamani/reactnative-sampleProject/blob/master/screenshots/Screenshot_DetailedItem.png)
 
+###AWS 
+
+![Program snapshot](https://github.com/priyangamani/reactnative-sampleProject/blob/master/screenshots/AWS_DATABASE.png)
+
+
 ### Run the test cases
 
 ```sh
