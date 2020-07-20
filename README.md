@@ -24,10 +24,10 @@ After the above command, execute a commmand like below
 yarn ios
 ```
 
-![Program snapshot](https://github.com/priyangamani/reactnative-sampleProject/blob/master/Screenshot-List.png)
+![Program snapshot](https://github.com/priyangamani/reactnative-sampleProject/blob/master/screenshots/Screenshot-List.png)
 
 
-![Program snapshot](https://github.com/priyangamani/reactnative-sampleProject/blob/master/Screenshot_DetailedItem.png)
+![Program snapshot](https://github.com/priyangamani/reactnative-sampleProject/blob/master/screenshots/Screenshot_DetailedItem.png)
 
 ### Run the test cases
 
